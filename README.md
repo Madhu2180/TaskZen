@@ -4,7 +4,8 @@
 > **Master your day, one task at a time.**  
 > A clean, animated, responsive to-do list web app built with JavaScript, HTML & CSS.
 
-![TaskZen Banner]("E:\front end project\logo-to do list.png")
+![TaskZen Banner] ![logo-to do list](https://github.com/user-attachments/assets/942eab57-52df-4582-8e7c-1b82a0677810)
+
 
 ---
 
