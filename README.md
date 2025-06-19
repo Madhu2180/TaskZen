@@ -36,6 +36,7 @@ To run the project locally:
    git clone https://github.com/YOUR_USERNAME/taskzen.git
    cd taskzen
 
+
    🌐 Live Demo
 🔗 View TaskZen Live https://madhu2180.github.io/TaskZen/
 
@@ -48,4 +49,6 @@ JavaScript
 
 Font Awesome Icons
 
+📄 License
+This project is open-source and free to use under the MIT License.
 
